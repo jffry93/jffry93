@@ -90,10 +90,7 @@ I'm a passionate Frontend Developer located in Canada:canada:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/jffry93/"><img width="40px" height='40px' src="https://img.icons8.com/color/344/linkedin-2--v1.png"/></a>
-<a href = "https://my.indeed.com/p/jeffreyz-n48gpy7"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="40" height="40"
-viewBox="0 0 172 172"
-style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ecf0f1"><path d="M99.4375,10.75c-41.65625,0 -67.1875,49.71875 -67.1875,75.25c0,0 17.46875,-64.5 69.875,-64.5c19.48438,0 32.25,10.75 32.25,10.75c0,0 -5.375,-21.5 -34.9375,-21.5zM94.0625,37.625c-10.38986,0 -18.8125,8.42264 -18.8125,18.8125c0,10.38986 8.42264,18.8125 18.8125,18.8125c10.38986,0 18.8125,-8.42264 18.8125,-18.8125c0,-10.38986 -8.42264,-18.8125 -18.8125,-18.8125zM107.5,86c0,0 -5.375,5.375 -26.875,5.375v56.4375c0,7.42288 6.01462,13.4375 13.4375,13.4375c7.42288,0 13.4375,-6.01462 13.4375,-13.4375z"></path></g></g></svg></a>
+<a href = "https://my.indeed.com/p/jeffreyz-n48gpy7"><img width="40px" height='40px' src="https://spirerecoverysolutions.com/wp-content/uploads/2020/04/Home-Icon-indeed-v2-300x300-1.png"/></a>
 <a href = "mailto:jay.zalischi@gmail.com"><img width="40px" height='40px' src="https://img.icons8.com/color/344/gmail-new.png"/></a>
 
 </p>
