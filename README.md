@@ -17,9 +17,9 @@ I'm a passionate Frontend Developer located in Canada:canada:
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on my **[Personal Portfolio](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on my **[Personal Portfolio](https://jffry93.github.io/react-portfolio/#/)**
 
-- 🌱 I’m currently learning to utilize the **Next.js Framework**
+- 🌱 I’m currently sharping me **Node.js** skills
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
