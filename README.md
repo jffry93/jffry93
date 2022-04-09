@@ -35,7 +35,7 @@ I'm a passionate Frontend Developer located in Canada:canada:
 
 <br/>
 <p align="left"> 
-    <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.markdownguide.org target="_blank"> <img width="40px" src="https://img.icons8.com/officel/344/markdown.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -53,22 +53,22 @@ I'm a passionate Frontend Developer located in Canada:canada:
     <a href="https://jestjs.io" target="_blank"> <img width="40px"src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/113/000/original/Cypress.io_Round_Logo.png?1618514359"/> </a> 
     <a href="https://axios-http.com" target="_blank"> <img width="35px" height='35px' src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" alt="Axios" width="48" height="48"/> </a> 
     <a style="padding-right:8px;" href="https://www.npmjs.com/" target="_blank"> <img  width="40px" src="https://img.icons8.com/color/344/npm.png"/> </a>
-    <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://mui.com" target="_blank"> <img height="40px" width="40px" src="https://img.icons8.com/color/344/material-ui.png"/> </a>  
-    <a href="https://nextjs.org" target="_blank"> <img height="40px" width="40px" src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25"/> </a>    -->
+    <a href="https://nextjs.org" target="_blank"> <img height="40px" width="40px" src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img width="37px" height='37px' src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.figma.com/" target="_blank"> <img width="37px" height='37px' src="https://img.icons8.com/color/344/figma--v1.png" alt="figma" width="48" height="48"/> </a> 
     <a href="https://www.adobe.com/ca/creativecloud/business/teams.html?sdid=KKQWX&mv=search&ef_id=Cj0KCQiAraSPBhDuARIsAM3Js4oa_6quAWB6b0z7m5ITJG7fGPz87HVOhybrLcQcvteeGOQu3BhcI9AaAmkbEALw_wcB:G:s&s_kwcid=AL!3085!3!495846071701!e!!g!!adobe!12231505439!122943076691&gclid=Cj0KCQiAraSPBhDuARIsAM3Js4oa_6quAWB6b0z7m5ITJG7fGPz87HVOhybrLcQcvteeGOQu3BhcI9AaAmkbEALw_wcB" target="_blank"> <img width="37px" height='37px' src="https://img.icons8.com/external-justicon-flat-justicon/344/external-adobe-social-media-justicon-flat-justicon.png" alt="express" width="40" height="40"/> </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 <br/>
 <br/>
 
 ## 📊 My Github Stats
 
-  <!-- <a ><img alt="Jeff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jffry93&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <a ><img alt="Jeff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jffry93&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <br/>
 
