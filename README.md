@@ -30,7 +30,7 @@ I'm a passionate Frontend Developer located in Canada:canada:
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 <br/>
-
+<!-- 
 ## 🚀 Languages and Tools:
 
 <br/>
@@ -96,7 +96,7 @@ I'm a passionate Frontend Developer located in Canada:canada:
 </p>
 
 <br/>
-<br/>
+<br/> -->
 
 <!-- ## ❤ Views and Followers
 
