@@ -14,7 +14,7 @@ I'm a passionate Frontend Developer located in Canada:canada:
     </a>
 </p>
 <br/>
-
+<!-- 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on my **[Personal Portfolio](https://jffry93.github.io/react-portfolio/#/)**
@@ -29,7 +29,7 @@ I'm a passionate Frontend Developer located in Canada:canada:
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-<br/>
+<br/> -->
 <!-- 
 ## 🚀 Languages and Tools:
 
