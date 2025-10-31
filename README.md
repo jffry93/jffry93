@@ -51,6 +51,5 @@ I'm a passionate Full Stack Developer located in Canada:canada:
 <p align="center">
 <a href = "https://www.linkedin.com/in/jffry93/"><img width="40px" height='40px' src="https://img.icons8.com/color/344/linkedin-2--v1.png"/></a>
 <a href = "https://my.indeed.com/p/jeffreyz-n48gpy7"><img width="40px" height='40px' src="https://spirerecoverysolutions.com/wp-content/uploads/2020/04/Home-Icon-indeed-v2-300x300-1.png"/></a>
-<a href = "mailto:jay.zalischi@gmail.com"><img width="40px" height='40px' src="https://img.icons8.com/color/344/gmail-new.png"/></a>
 </p>
 </div>
