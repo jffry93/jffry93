@@ -25,8 +25,6 @@ I'm a passionate Full Stack Developer located in Canada:canada:
 
 - 🍻 Looking to collaborate on **exciting projects**
 
-- 📫 How to reach me **jay.zalischi@gmail.com**
-
 <br>
 <br>
 <br>
